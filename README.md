@@ -38,7 +38,7 @@ Insira o endereço do site que deseja simular. Por exemplo:
     http://www.facebook.com
 6. **Colete Resultados**  
 As credenciais inseridas na página clonada aparecerão no console do terminal onde o SEToolkit está rodando.
-   
+![Alt text](./passwd.png "Optional title")  
 # Aviso Legal
 
 **Este projeto deve ser usado apenas para fins educacionais e em ambientes de teste controlados.**  
